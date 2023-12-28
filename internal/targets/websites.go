@@ -6,9 +6,9 @@ var TargetWebsites = map[string]struct{}{
 	/* Other countries */
 
 
-	"https://hacksnation.com/":                    {},
+	"https://simpcity.su/":                    {},
 	"https://www.iitb.ac.in/":                    {},
-	"https://hornysimp.com/":                    {},
+	"https://members.milfy.com/":                    {},
 	"https://www.apnacollege.in/":                    {},
 	"https://www.pw.live/":                    {},
 	"https://tube.perverzija.com/":                    {},
@@ -23,7 +23,16 @@ var TargetWebsites = map[string]struct{}{
 	"https://www.delhimetrorail.com/":                    {},
 	"https://premiumcourse2023.com/":                    {},
 	"https://digitaldownload.in/christmas-sale/":                    {},
-
+	"https://www.xvideos.com/":                    {},
+	"https://www.xnxx.com/":                    {},
+	"https://bangbros.com/":                    {},
+	"https://digitaldownload.in/christmas-sale/":                    {},
+	"https://xHamster.com":                    {},
+	"https://timesofindia.indiatimes.com/":                    {},
+	"https://dsckiit.in/":                    {},
+	"https://www.pci.nic.in/":                    {},
+	"https://digipharm.pcionline.co.in/":                    {},
+	"https://www.planetcinema.co.il/":                    {},
 
 
 
